@@ -1,0 +1,104 @@
+[
+  {
+    "id": "s-br-1",
+    "game": "block-rush",
+    "user": "탑쌓기장인",
+    "color": "#4CC9F0",
+    "recommend": true,
+    "text": "출퇴근 지하철에서 한 판씩 하기 딱 좋아요. 퍼펙트 콤보 이어질 때 손맛이 미쳤습니다.",
+    "playtimeMin": 642,
+    "date": "2026-10-04",
+    "helpful": 128,
+    "reply": { "from": "놀이터 스튜디오", "text": "손맛 칭찬 감사합니다! 다음 업데이트에 친구 대전 모드가 들어가요." }
+  },
+  {
+    "id": "s-br-2",
+    "game": "block-rush",
+    "user": "민지",
+    "color": "#FF5DA2",
+    "recommend": true,
+    "text": "친구랑 점수 내기하다가 새벽 2시 됨… 3판 2선승 룰 추천해요.",
+    "playtimeMin": 251,
+    "date": "2026-10-07",
+    "helpful": 64
+  },
+  {
+    "id": "s-br-3",
+    "game": "block-rush",
+    "user": "느긋한곰",
+    "color": "#FF8C42",
+    "recommend": false,
+    "text": "후반에 블록이 너무 빨라져요. 속도 조절 옵션이 있으면 좋겠어요.",
+    "playtimeMin": 38,
+    "date": "2026-10-08",
+    "helpful": 21
+  },
+  {
+    "id": "s-mm-1",
+    "game": "moon-match",
+    "user": "정원사밍",
+    "color": "#4CC9F0",
+    "recommend": true,
+    "text": "자기 전 10분씩 하기 딱 좋아요. 4스테이지부터 난이도가 확 올라가니 집중하세요!",
+    "playtimeMin": 840,
+    "date": "2026-10-02",
+    "helpful": 211,
+    "reply": { "from": "달토끼 게임즈", "text": "정원사밍님 덕분에 4스테이지 힌트 기능을 준비 중이에요!" }
+  },
+  {
+    "id": "s-mm-2",
+    "game": "moon-match",
+    "user": "하준",
+    "color": "#FFD23F",
+    "recommend": true,
+    "text": "나갔다 들어와도 이어하기가 돼서 좋아요. 그림체가 너무 귀여움.",
+    "playtimeMin": 96,
+    "date": "2026-10-06",
+    "helpful": 47
+  },
+  {
+    "id": "s-mm-3",
+    "game": "moon-match",
+    "user": "별보는밤",
+    "color": "#2EE6A6",
+    "recommend": true,
+    "text": "음악 없이도 차분해지는 게임. 짝 맞출 때 효과가 기분 좋아요.",
+    "playtimeMin": 154,
+    "date": "2026-10-09",
+    "helpful": 18
+  },
+  {
+    "id": "s-ej-1",
+    "game": "endless-jump",
+    "user": "점프왕",
+    "color": "#B9A3FF",
+    "recommend": true,
+    "text": "단순한데 계속 한 판 더 하게 돼요. 200계단 넘으면 진짜 손이 떨림.",
+    "playtimeMin": 188,
+    "date": "2026-10-08",
+    "helpful": 93
+  },
+  {
+    "id": "s-ej-2",
+    "game": "endless-jump",
+    "user": "손가락요정",
+    "color": "#FFD23F",
+    "recommend": false,
+    "text": "방향 바뀌는 타이밍이 가끔 안 보여요. 화면 흔들림이 조금 줄었으면.",
+    "playtimeMin": 24,
+    "date": "2026-10-09",
+    "helpful": 12,
+    "reply": { "from": "점프점프 랩", "text": "의견 감사해요! 흔들림 끄기 옵션을 추가할게요." }
+  },
+  {
+    "id": "s-ej-3",
+    "game": "endless-jump",
+    "user": "계단덕후",
+    "color": "#4CC9F0",
+    "recommend": true,
+    "text": "신작인데 완성도 높아요. 친구 랭킹 생기면 매일 할 듯.",
+    "playtimeMin": 61,
+    "date": "2026-10-10",
+    "helpful": 30
+  }
+]
